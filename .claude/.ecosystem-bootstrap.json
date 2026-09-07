@@ -1,0 +1,25 @@
+{
+  "signature": "d41d8cd98f00b204e9800998ecf8427e",
+  "timestamp": "2026-09-07T04:01:07.825Z",
+  "stack": {
+    "languages": [],
+    "frameworks": [],
+    "frontend": false,
+    "n8n": false,
+    "hasTests": false,
+    "hasCI": false,
+    "hasDocker": false,
+    "hasDocs": true,
+    "hasEnvExample": false,
+    "isGitRepo": true
+  },
+  "sizeClass": "small",
+  "fileCount": 0,
+  "pluginsEnabled": [],
+  "rulesCopied": [],
+  "graphify": {
+    "indexed": false,
+    "action": "skipped-small",
+    "claudeInstalled": false
+  }
+}
